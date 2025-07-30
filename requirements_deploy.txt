@@ -1,0 +1,4 @@
+pynvml
+matplotlib
+torch
+py-cpuinfo
